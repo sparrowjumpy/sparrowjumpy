@@ -15,7 +15,6 @@ I'm a Cybersecurity student with a passion for network security, ethical hacking
 
 - **Bachelor's Degree in Cybersecurity**  
   National University of Computer and Emerging Sciences  
-  ![NUCES](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNational_University_of_Computer_and_Emerging_Sciences&psig=AOvVaw0lFFxn-SGn0BY7F1067uPr&ust=1719511922741000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCe0Zzv-YYDFQAAAAAdAAAAABAE)
 
 - **Advanced Level (A-Level) in Computer Science**  
   Highbrow College  
