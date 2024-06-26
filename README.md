@@ -1,4 +1,4 @@
-# Hi there, I'm Syed Zain ul Abideen Zaidi! 👋
+# Hi there, I'm Zain! 👋
 
 I'm a Cybersecurity student with a passion for network security, ethical hacking, and developing tools that enhance privacy and security. Welcome to my GitHub profile!
 
