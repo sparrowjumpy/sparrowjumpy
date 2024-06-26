@@ -51,6 +51,7 @@ I'm a Cybersecurity student with a passion for network security, ethical hacking
 
 ### 🛠️ Tech Stack:
 
+
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -64,4 +65,11 @@ I'm a Cybersecurity student with a passion for network security, ethical hacking
 ![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability_Assessment-9D4F00?style=flat&logo=nmap&logoColor=white)
 ![Digital Forensics](https://img.shields.io/badge/-Digital_Forensics-006400?style=flat&logo=siem&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-8B0000?style=flat&logo=virus&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 
