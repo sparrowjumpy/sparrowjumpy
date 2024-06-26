@@ -1,4 +1,4 @@
-# Hey 👋, I'm Syed Zain ul Abideen Zaidi!
+# Hey 👋, I'm Zain!
 
 ### About Me:
 
@@ -48,3 +48,20 @@ I'm a Cybersecurity student with a passion for network security, ethical hacking
 
 - Successfully managed an Amazon account and created beneficial relationships with distributors.
 - Developed multiple cybersecurity tools and demonstrated their importance in real-world scenarios.
+
+### 🛠️ Tech Stack:
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/-Networking-00758F?style=flat&logo=cisco&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/-Ethical_Hacking-9D4F00?style=flat&logo=hack-the-box&logoColor=white)
+![Vulnerability Assessment](https://img.shields.io/badge/-Vulnerability_Assessment-9D4F00?style=flat&logo=nmap&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/-Digital_Forensics-006400?style=flat&logo=siem&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/-Malware_Analysis-8B0000?style=flat&logo=virus&logoColor=white)
+
