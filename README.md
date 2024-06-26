@@ -32,4 +32,4 @@ I'm a Cybersecurity student with a passion for network security, ethical hacking
 ## 📫 How to reach me
 
 - Email: [career.zainzaidi@gmail.com](mailto:career.zainzaidi@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/syed-zain-ul-abideen-zaidi-8249601b5)
