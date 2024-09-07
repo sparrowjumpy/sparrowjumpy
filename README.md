@@ -43,11 +43,6 @@ I'm a Cybersecurity student with a passion for network security, ethical hacking
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syed-zain-ul-abideen-zaidi-8249601b5)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/sparrowjumpy)
 
-### 🏆 Achievements:
-
-- Successfully managed an Amazon account and created beneficial relationships with distributors.
-- Developed multiple cybersecurity tools and demonstrated their importance in real-world scenarios.
-
 ### 🛠️ Tech Stack:
 
 
